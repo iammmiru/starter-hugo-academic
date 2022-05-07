@@ -39,4 +39,4 @@ I am passionate about extracting useful insights out of massive and noisy data.
 
 I develop models to understand stochastic systems where constituting elements move randomly with some global and/or local trends.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
