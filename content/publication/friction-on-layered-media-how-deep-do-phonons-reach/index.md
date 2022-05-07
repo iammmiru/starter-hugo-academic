@@ -8,7 +8,7 @@ authors:
   - Niklas Weber
   - Cynthia A. Volkert
   - Matthias Krüger
-doi: https://doi.org/10.48550/arXiv.2205.01151
+doi: 10.48550/arXiv.2205.01151
 publication: arXiv:2205.01151
 abstract: "We theoretically study the frictional damping of a small probe object
   on a coated planar surface, analyzing the resulting phonon modes via a theory
