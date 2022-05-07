@@ -42,4 +42,4 @@ I develop models to understand stochastic systems where constituting elements mo
 
 Currently completing my PhD, I'm excited about applying my knowledge to real-world problems so that we can create new values.
 
-{{< icon name="download" pack="fas" >}} Click {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}} to download my CV.
+{{< icon name="download" pack="fas" >}} Click {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}} to learn more about me (CV).
