@@ -1,11 +1,11 @@
 ---
 widget: experience
 widget_id: experience
-headless: true
+headless: false
 weight: 40
 title: Experience
 subtitle: null
-active: true
+active: false
 date_format: Jan 2006
 experience:
   - title: CEO
