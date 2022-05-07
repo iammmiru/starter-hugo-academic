@@ -35,8 +35,11 @@ email: mirulee@mail.com
 superuser: true
 highlight_name: true
 ---
-I am passionate about extracting useful insights out of massive and noisy data.
+Can seemingly random noise in a data set can have meaningful information at all?
+You would be surprised how much insights we can extract out of noisy and massive data.
 
-I develop models to understand stochastic systems where constituting elements move randomly with some global and/or local trends.
+I develop models to understand stochastic systems where constituting elements move randomly with some global and/or local trends. I predict such systems' behaviors based on their statistical properties.
+
+And, it is my passion to apply my knowlegde to real-world problems so that we can creat values that are otherwise left unseen.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
