@@ -2,7 +2,7 @@
 widget: portfolio
 widget_id: s-project
 weight: 55
-title: Side Publications
+title: Side Projects
 subtitle: ""
 active: false
 content:
