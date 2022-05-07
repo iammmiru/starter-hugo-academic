@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: portfolio
 widget_id: s-project
 weight: 55
 title: Side Publications
