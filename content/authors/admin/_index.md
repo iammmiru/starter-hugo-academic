@@ -40,6 +40,6 @@ You would be surprised to know how many insights we can extract out of random fl
 
 I develop models to understand stochastic systems where constituting elements move randomly with some global and/or local trends. I predict such systems' behaviors based on their statistical properties.
 
-Currently completing my PhD, I'm excited about applying my knowledge to real-world problems so that we can create new values.
+Currently completing my PhD, I'm excited about applying my knowledge to real-world problems so that we can create new values that are otherwise left unseen.
 
 {{< icon name="download" pack="fas" >}} Click {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}} to learn more about me (CV).
