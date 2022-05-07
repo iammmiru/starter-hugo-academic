@@ -16,6 +16,8 @@ image:
   focal_point: Smart
   preview_only: false
 
+url_pdf: 'https://arxiv.org/pdf/1905.03345.pdf'
+
 publishDate: 2022-05-07T22:38:08.544Z
 
 ---
