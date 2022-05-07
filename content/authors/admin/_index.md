@@ -4,7 +4,7 @@ role: PhD Candidate in Theoretical Physics
 bio: My research interests include stochastic systems, random motion, and their
   application in real-life problems.
 interests:
-  - Statistical mechanics
+  - Nonequilibrium statistical physics
   - Neural networks
   - Option pricing models
 social:
