@@ -1,7 +1,6 @@
 ---
 title: "Friction on layered media: How deep do phonons reach?"
 publication_types:
-  - "0"
   - "3"
 authors:
   - Miru Lee
