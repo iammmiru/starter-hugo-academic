@@ -9,7 +9,6 @@ authors:
   - Matthias Krüger
 doi: 10.1103/PhysRevB.104.174309
 publication: Physical Review B
-publication_short: Phys. Rev. B
 abstract: "While obtaining theoretical predictions for dissipation during
   sliding motion is a difficult task, one regime that allows for analytical
   results is the so-called noncontact regime, where a probe is weakly
@@ -39,5 +38,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-05-07T22:38:44.421Z
+url_pdf: 'https://arxiv.org/pdf/2108.03025'
+date: 2021-11-29T09:38:44.421Z
 ---
