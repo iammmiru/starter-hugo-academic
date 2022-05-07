@@ -1,7 +1,7 @@
 ---
 widget: pages
 widget_id: s-project
-weight: 50
+weight: 55
 title: Side Publications
 subtitle: ""
 active: false
