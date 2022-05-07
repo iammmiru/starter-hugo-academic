@@ -5,7 +5,7 @@ bio: My research interests include stochastic systems, random motion, and their
   application in real-life problems.
 interests:
   - Nonequilibrium statistical physics
-  - Neural networks
+  - Neural networks and deep learning
   - Option pricing models
 social:
   - icon: envelope
