@@ -1,7 +1,6 @@
 ---
 title: The influence of motility on bacterial accumulation in a microporous channel
 publication_types:
-  - "0"
   - "2"
 authors:
   - Miru Lee
