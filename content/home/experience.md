@@ -1,6 +1,6 @@
 ---
 widget: experience
-widget_id: "1"
+widget_id: experience
 headless: true
 weight: 40
 title: Experience
@@ -32,4 +32,3 @@ experience:
 design:
   columns: "2"
 ---
-asdasd
