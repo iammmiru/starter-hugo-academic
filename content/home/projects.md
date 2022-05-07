@@ -2,7 +2,7 @@
 widget: portfolio
 widget_id: a-project
 headless: true
-weight: 65
+weight: 50
 title: Academic Projects
 subtitle: ""
 content:
