@@ -25,7 +25,7 @@ education:
     - course: PhD in Theoretical Physics
       institution: University of Göttingen
       year: 2022
-    - course: MsC in Physics
+    - course: MSc in Physics
       institution: University of Stuttgart
       year: 2018
     - course: BSc in Physics
