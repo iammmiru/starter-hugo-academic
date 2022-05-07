@@ -3,7 +3,7 @@ title: "Friction on layered media: How deep do phonons reach?"
 publication_types:
   - "3"
 authors:
-  - Miru Lee
+  - admin
   - Niklas Weber
   - Cynthia A. Volkert
   - Matthias Krüger

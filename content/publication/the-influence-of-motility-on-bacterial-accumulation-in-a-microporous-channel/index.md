@@ -3,7 +3,7 @@ title: The influence of motility on bacterial accumulation in a microporous chan
 publication_types:
   - "2"
 authors:
-  - Miru Lee
+  - admin
   - Christoph Lohrmann
   - Kai Szuttor
   - Harold Auradou

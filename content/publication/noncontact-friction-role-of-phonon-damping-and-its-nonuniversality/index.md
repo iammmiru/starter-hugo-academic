@@ -3,7 +3,7 @@ title: "Noncontact friction: Role of phonon damping and its nonuniversality"
 publication_types:
   - "2"
 authors:
-  - Miru Lee
+  - admin
   - Richard LC Vink
   - Cynthia A Volkert
   - Matthias Krüger
