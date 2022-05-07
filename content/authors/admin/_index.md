@@ -35,7 +35,7 @@ email: mirulee@mail.com
 superuser: true
 highlight_name: true
 ---
-Can seemingly random noise in a data set can have meaningful information at all?
+Can seemingly random noise in a data set have meaningful information?
 You would be surprised how much insights we can extract out of noisy and massive data.
 
 I develop models to understand stochastic systems where constituting elements move randomly with some global and/or local trends. I predict such systems' behaviors based on their statistical properties.
