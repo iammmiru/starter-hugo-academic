@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:mirulee@mail.com"
+    link: mailto:mirulee@mail.com
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=dNQuq7kAAAAJ&hl=en
