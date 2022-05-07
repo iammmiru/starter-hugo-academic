@@ -35,11 +35,11 @@ email: mirulee@mail.com
 superuser: true
 highlight_name: true
 ---
-Can seemingly random noise in data have meaningful information?
-You would be surprised how much insights we can extract out of random fluctuations.
+Can seemingly random noise in data have any meaningful information?
+You would be surprised to know how many insights we can extract out of random fluctuations.
 
 I develop models to understand stochastic systems where constituting elements move randomly with some global and/or local trends. I predict such systems' behaviors based on their statistical properties.
 
-And, it is my passion to apply my knowlegde to real-world problems so that we can creat values that are otherwise left unseen.
+Currently completing my PhD, I'm excited about applying my knowledge to real-world problems so that we can create new values.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
