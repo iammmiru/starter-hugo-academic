@@ -6,7 +6,7 @@ weight: 50
 title: Academic Projects
 subtitle: ""
 content:
-  page_type: project
+  page_type: a-project
 design:
   columns: "2"
   view: 2
