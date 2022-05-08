@@ -7,7 +7,7 @@ weight: 50
 
 title: Side Projects
 subtitle: ""
-
+show_data: false
 content:
   page_type: s-project
   filter_default: 0
