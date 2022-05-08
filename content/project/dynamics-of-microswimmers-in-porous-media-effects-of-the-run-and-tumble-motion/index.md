@@ -6,7 +6,7 @@ draft: false
 featured: true
 image:
   filename: figure1.png
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
 ---
 I studied dynamics of living organisms, such as bacteria. I developed an algorithm to simulate motion of bacteria (E. coli), and investigated their collective behaviors. This involved implementing a Monte-Carlo algorithm, a collision detection, and fluid dynamics simulations. I published 2 papers in peer-reviewed journals.
