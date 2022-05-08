@@ -1,6 +1,5 @@
 ---
 title: "Analog photography"
-date: 2022-05-05T14:32:32.797Z
 image:
   focal_point: Smart
 show_data: false
