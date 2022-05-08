@@ -2,8 +2,6 @@
 title: "Dynamics of microswimmers in porous media: effects of the run and tumble
   motion"
 date: 2022-05-08T12:35:15.416Z
-draft: false
-featured: true
 image:
   caption: Reprinted from Soft Matter 17 (4), 893-902
   focal_point: Center
