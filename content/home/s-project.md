@@ -9,7 +9,7 @@ title: Side Projects
 subtitle: ""
 
 content:
-  page_type: project
+  page_type: s-project
   filter_default: 0
 design:
   columns: "2"
