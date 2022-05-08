@@ -17,6 +17,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/miru-lee-10b920198/
+  - icon: github
+    icon_pack: fas
+    link: https://github.com/iammmiru?tab=repositories
 organizations:
   - name: University of Göttingen
     url: https://www.uni-goettingen.de/en/577820.html
@@ -42,4 +45,4 @@ I develop models to understand stochastic systems where constituting elements mo
 
 Currently completing my PhD, I'm excited about applying my knowledge to real-world problems so that we can create new values that are otherwise left unseen.
 
-{{< icon name="download" pack="fas" >}} Click {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}} to learn more about me (CV).
+{{< icon name="download" pack="fas" >}} My CV is {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}}.
