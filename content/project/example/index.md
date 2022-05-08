@@ -1,8 +1,13 @@
 ---
-title: Example Project
+title: Dynamics of microswimmers in porous media: effects of the run and tumble motion
 summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
+  - Statistical Analysis
+  - Collision Detection
+  - Data Visualization
+  - Monte Carlo Simulation
+  - Numerical Simulation
+  - Computational Fluid Dynamics
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
