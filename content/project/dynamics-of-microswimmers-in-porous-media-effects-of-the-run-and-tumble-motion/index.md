@@ -10,6 +10,8 @@ tags:
   - Collision Detection
   - Computational Fluid Dynamics
   - Data Visualization
+show_data: false
+
 ---
 I studied dynamics of living organisms, such as bacteria. I developed an algorithm to simulate motion of bacteria (E. coli), and investigated their collective behaviors. I published 2 papers in peer-reviewed journals: {{< staticref "https://arxiv.org/pdf/1905.03345" "newtab" >}}here{{< /staticref >}} and {{< staticref "https://pubs.rsc.org/en/content/articlepdf/2021/sm/d0sm01595d" "newtab" >}}here{{< /staticref >}}.
 - Monte Carlo Simulation
