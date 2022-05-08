@@ -7,6 +7,7 @@ interests:
   - Nonequilibrium statistical physics
   - Neural networks and deep learning
   - Option pricing models
+  - Analog photography
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,6 +21,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/iammmiru?tab=repositories
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/iammmiru
 organizations:
   - name: University of Göttingen
     url: https://www.uni-goettingen.de/en/577820.html
