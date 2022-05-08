@@ -1,6 +1,5 @@
 ---
 widget: portfolio
-widget_id: a-project
 headless: true
 weight: 50
 title: Academic Projects
