@@ -6,9 +6,8 @@ weight: 50
 title: Academic Projects
 subtitle: ""
 content:
-  filters:
-    folders:
-      - a-project
+  page_type: a-project
+  filter_default: 0
 design:
   columns: "2"
   view: 2
