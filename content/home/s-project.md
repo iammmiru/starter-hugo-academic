@@ -1,26 +1,18 @@
 ---
 widget: portfolio
-widget_id: s-project
-weight: 55
+
+headless: true
+
+weight: 50
+
 title: Side Projects
 subtitle: ""
-active: false
+
 content:
-  filters:
-    folders:
-      - publication
-    tag: ""
-    category: ""
-    publication_type: ""
-    author: ""
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-  count: 0
-  offset: 0
-  order: desc
-headless: true
+  page_type: project
+  filter_default: 0
 design:
-  view: citation
   columns: "2"
+  view: 2
+  flip_alt_rows: false
 ---
