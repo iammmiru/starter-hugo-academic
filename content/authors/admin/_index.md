@@ -18,7 +18,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/miru-lee-10b920198/
   - icon: github
-    icon_pack: fas
+    icon_pack: fab
     link: https://github.com/iammmiru?tab=repositories
 organizations:
   - name: University of Göttingen
