@@ -1,5 +1,5 @@
 ---
-title: "Stochastic field theory of viscoelastic solid: a quantitative study of phononic friction"
+title: "Stochastic field theory of viscoelastic solids: a quantitative study of phononic friction"
 date: 2022-05-08T14:32:32.797Z
 tags:
   - Molecular Dynamics Simulations
