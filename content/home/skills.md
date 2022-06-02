@@ -16,16 +16,14 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: python
-    icon_pack: fab
-    name: Python
   - icon: chart-line
     icon_pack: fas
-    name: Statistics
+    name: Data analysis
   - icon: book-open-reader
     icon_pack: fas
     name: Learning new subjects
   - icon: function
+    icon_pack: fas
     name: Demystiyfing mathemagics
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
