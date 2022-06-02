@@ -24,7 +24,9 @@ feature:
     name: Statistics
   - icon: book-open-reader
     icon_pack: fas
-    name: Active learning
+    name: Learning new subjects
+  - icon: function
+    name: Demystiyfing mathemagics
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
