@@ -22,7 +22,7 @@ feature:
   - icon: book-open-reader
     icon_pack: fas
     name: Learning new subjects
-  - icon: function
+  - icon: square-root-variable
     icon_pack: fas
     name: Demystiyfing mathemagics
 # Uncomment to use emoji icons.
